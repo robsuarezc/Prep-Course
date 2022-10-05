@@ -120,11 +120,6 @@ En este momento, podemos usar el comando de git "status", esto nos mostrará los
 Deberías ver algo parecido a estas líneas:
 
 ```bash
-  Changes not staged for commit:
-    (use "git add <file>..." to update what will be committed)
-    (use "git checkout -- <file>..." to discard changes in working directory)
-
-    modified:   README.md
 
   Untracked files:
     (use "git add <file>..." to include in what will be committed)
